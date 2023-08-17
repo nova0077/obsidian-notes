@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "17aa94c821272ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2122e7d15f21a429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87f5686c9f59436c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Standard/Count Unique Substrings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae31cc65454556da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd58e3fd1e7f95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbba2203cdd3c91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc792eab8ffa241a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5e6b3584f9737f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f256611bf9435aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6c1870a0a76680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576b2e6468286d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problems/Standard/Count Unique Substrings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b100540277171f56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Problems/Standard/Count Unique Substrings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07134bc940814215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10e278f67672d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Problems/Standard/Count Unique Substrings.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87f5686c9f59436c",
+  "lastOpenFiles": [
+    "Algorithms/Rolling Hash.md",
+    "KMP algorithm.md",
+    "Problems/Standard/Count Unique Substrings.md",
+    "Problems/Standard",
+    "Problems",
+    "Untitled.canvas",
+    "modular inverse.md",
+    "media/Pasted image 20230627224457.png",
+    "media/Pasted image 20230627222824.png",
+    "media",
+    "Algorithms"
+  ]
+}

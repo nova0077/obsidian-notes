@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"Server","id":"db7349a072aef63f","x":103,"y":-395,"width":132,"height":50,"color":"5"},
+		{"type":"text","text":"Signalling Process","id":"22e6466b9b987334","x":-225,"y":-680,"width":250,"height":50,"color":"1"},
+		{"type":"text","text":"SocketContext","id":"81c406824657038c","x":-500,"y":-395,"width":205,"height":50,"color":"5"},
+		{"type":"text","text":"Call User event","id":"c8267f73f22123cd","x":-180,"y":-540,"width":165,"height":60,"color":"5"},
+		{"type":"text","text":"SocketContext","id":"03888b790948147a","x":1,"y":120,"width":205,"height":50,"color":"3"},
+		{"type":"text","text":"Acceptance Signal","id":"a91644d4dd28f63d","x":-373,"y":116,"width":180,"height":58,"color":"3"},
+		{"type":"text","text":"## Workflow\n1. When the user initiates a call, the `'callUser'` function is invoked in the `'SocketContext'`, initialing the signalling process.\n2. The server receives the `'callUser'` event, performs signalling with the recipient, and emits the `'callUser' `event to the recipient.\n3. The recipient's SocketContext triggers the `'callUser'` event listener, which establishes a WebRTC connection and sends a call to acceptance signal back to the caller.\n4. After receiving the call acceptance signal, the caller's `'SocketContext'` establishes the WebRTC connection, and audio and video streams are exchanged.\n5. The video streams are displayed by `'videoPlayer'` component.\n6. If a user clicks the `\"Hang Up\"` button, the `'leaveCall'` function ends the call, closes the WebRTC connection, and reloads the page.\n","id":"b56aa7934e641428","x":-706,"y":480,"width":1027,"height":498,"color":"6"},
+		{"type":"text","text":"WebRTC Connection","id":"36f3d0182bf2e47c","x":-225,"y":-176,"width":250,"height":61,"color":"6"},
+		{"type":"text","text":"Caller","id":"087ffef26e7d8292","x":-706,"y":-145,"width":120,"height":50,"color":"5"},
+		{"type":"text","text":"Recipient","id":"1893cfe21c3f10df","x":380,"y":-141,"width":160,"height":53,"color":"3"}
+	],
+	"edges":[
+		{"id":"3fb29dcf88cb17ce","fromNode":"db7349a072aef63f","fromSide":"right","toNode":"1893cfe21c3f10df","toSide":"top","label":"performs signalling"},
+		{"id":"a7cc92bd20c5ef9c","fromNode":"1893cfe21c3f10df","fromSide":"bottom","toNode":"03888b790948147a","toSide":"right","label":"callUser event triggered"},
+		{"id":"3732719e0f52dea6","fromNode":"03888b790948147a","fromSide":"left","toNode":"a91644d4dd28f63d","toSide":"right"},
+		{"id":"5bc0c3cf59bee632","fromNode":"a91644d4dd28f63d","fromSide":"left","toNode":"087ffef26e7d8292","toSide":"bottom"},
+		{"id":"ca033cadfd148dd7","fromNode":"087ffef26e7d8292","fromSide":"bottom","toNode":"36f3d0182bf2e47c","toSide":"left"},
+		{"id":"b0434869cc8273f0","fromNode":"087ffef26e7d8292","fromSide":"top","toNode":"81c406824657038c","toSide":"left","label":"initiates call"},
+		{"id":"4d8cfa183e54a774","fromNode":"81c406824657038c","fromSide":"top","toNode":"c8267f73f22123cd","toSide":"left","label":"function invoked"},
+		{"id":"2f0046f0c155a96a","fromNode":"c8267f73f22123cd","fromSide":"right","toNode":"db7349a072aef63f","toSide":"top"}
+	]
+}

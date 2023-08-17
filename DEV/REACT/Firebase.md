@@ -1,0 +1,1 @@
+- It is a complete platform offered by Google that provides a wide range of tools and services to help developers build and manage web and mobile applications.
