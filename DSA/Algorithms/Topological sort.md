@@ -1,5 +1,6 @@
 The **_topological sorting_** of a directed acyclic graph is nothing but the linear ordering of vertices such that if there is an edge between node u and v(u -> v), node u appears before v in that ordering.
 
+### Using DFS
 ```cpp
 void dfs(int node, int vis[], stack<int> &st, vector<int> adj[]) {
 	vis[node] = 1;
@@ -28,6 +29,7 @@ vector<int> topoSort(int V, vector<int> adj[])
 ```
 TC: O(V+E)
 
+### Using BFS
 ```cpp
 vector<int> topologicalSort(int V, vector<vector<int>>& adj)
 {
@@ -64,3 +66,4 @@ vector<int> topologicalSort(int V, vector<vector<int>>& adj)
 	return top_order;
 }
 ```
+TC: O(V + E), where V is the number of vertices and E is the number of edges.
