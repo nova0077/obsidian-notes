@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "121305ba1cc875ed",
+        "id": "ac42b5c2e590c4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f79c3d158283b732",
+            "id": "d8dd92e908d43977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/ReactRTC/Tech Stack/CORS.md",
+                "file": "REACT/Axios.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5384b340659c75e2",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/ReactRTC/Tech Stack/CORS.md",
+                "file": "REACT/Axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/ReactRTC/Tech Stack/CORS.md",
+                "file": "REACT/Axios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/ReactRTC/Tech Stack/CORS.md"
+                "file": "REACT/Axios.md"
               }
             }
           }
@@ -146,49 +146,55 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f79c3d158283b732",
+  "active": "d8dd92e908d43977",
   "lastOpenFiles": [
-    "Projects/ReactRTC/Tech Stack/Material-UI.md",
-    "Projects/ReactRTC/Tech Stack/Overview.md",
+    "WEBD/CSS/CSS Box Model.md",
+    "WEBD/CSS/CSS Selectors.md",
+    "WEBD/CSS/CSS Text.md",
+    "images/Pasted image 20230926153930.png",
+    "WEBD/CSS/CSS Colors.md",
+    "images/Pasted image 20230926151218.png",
+    "images/Pasted image 20230926140242.png",
+    "WEBD/CSS/Intro.md",
+    "images/Pasted image 20230926135850.png",
+    "images/Pasted image 20230926133826.png",
+    "images/Pasted image 20230926132943.png",
+    "images/Pasted image 20230926132928.png",
+    "WEBD/Intro/The Internet.md",
+    "WEBD/HTML/HTML.md",
+    "WEBD/HTML/HTML Forms.md",
+    "WEBD/CSS",
+    "images/Pasted image 20230926122801.png",
+    "images/Pasted image 20230926111700.png",
+    "images/Pasted image 20230926110758.png",
+    "WEBD/HTML/HTML Tables.md",
+    "WEBD/HTML/HTML Semantics.md",
+    "Untitled.canvas",
+    "WEBD/HTML/HTML Elements.md",
+    "WEBD/HTML/HTML Skeleton.md",
+    "WEBD/Intro/Chrome Developer Tools.md",
+    "2023-09-09.md",
+    "WEBD/Intro",
+    "WEBD/HTML",
     "Projects/ReactRTC/Tech Stack/Socket.io.md",
+    "Projects/ReactRTC/Tech Stack/Overview.md",
+    "Projects/ReactRTC/Tech Stack/EXPRESS.md",
+    "Projects/ReactRTC/Tech Stack/CORS.md",
+    "REACT/Axios.md",
+    "Untitled 1",
+    "WEBD",
+    "Projects/ReactRTC/Tech Stack/Material-UI.md",
     "Projects/ReactRTC/Code Overview.md",
     "Projects/ReactRTC/Interview Ques.md",
     "Projects/ReactRTC/Signalling Process.canvas",
     "Projects/ReactRTC/WebRTC Concept.md",
-    "Projects/ReactRTC/Tech Stack/CORS.md",
-    "Projects/ReactRTC/Tech Stack/EXPRESS.md",
     "REACT/Custom Hooks.md",
     "Interview Ques/REACT.md",
-    "images/Pasted image 20230717051307.png",
     "REACT/Hooks/UseLayoutEffect.md",
-    "REACT/Hooks/UseEffect.md",
-    "REACT/Hooks/UseContext.md",
-    "REACT/Hooks/UseCallback.md",
-    "signalling.md",
-    "Projects/ReactRTC/Untitled.md",
-    "Projects/ReactRTC/TechStack.md",
-    "**Material-UI**.md",
     "Projects/ReactRTC/Tech Stack",
-    "FLASK/Lamda Functions.md",
-    "REACT/TypeSafety & TypeScript.md",
-    "REACT/State Management.md",
-    "REACT/Redux Tool Kit.md",
-    "REACT/React Router DOM.md",
-    "REACT/React Query.md",
-    "REACT/React Forms.md",
     "Projects/ReactRTC",
     "Interview Ques",
     "REACT/Hooks",
-    "Projects",
-    "images/Pasted image 20230717052157.png",
-    "images/Pasted image 20230717051845.png",
-    "images",
-    "images/Pasted image 20230717051343.png",
-    "images/Pasted image 20230717051500.png",
-    "images/Pasted image 20230717051625.png",
-    "Untitled.canvas",
-    "WebRTC",
-    "FLASK",
-    "REACT"
+    "Projects"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode Problems/Leetcode Top 150.md",
+                "file": "DEV/Projects/ReactRTC/Tech Stack/CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "691db485e3e8ae8f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode Problems/Leetcode Top 150.md",
+                "file": "DEV/Projects/ReactRTC/Tech Stack/CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode Problems/Leetcode Top 150.md",
+                "file": "DEV/Projects/ReactRTC/Tech Stack/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode Problems/Leetcode Top 150.md"
+                "file": "DEV/Projects/ReactRTC/Tech Stack/CORS.md"
               }
             }
           }
@@ -148,12 +148,41 @@
   },
   "active": "8a2fc6a86e3b1931",
   "lastOpenFiles": [
+    "DEV/FLASK/Lamda Functions.md",
+    "DSA/Algorithms/Topological sort.md",
+    "DSA/Arrays/Longest alternating subsequence.md",
+    "DSA/Arrays/Count Smaller elements.md",
+    "CP/modular inverse.md",
+    "CP/KMP algorithm.md",
+    "CP/Problems/Standard/Count Unique Substrings.md",
+    "DSA/Algorithms/Methods/How to solve stack problems without using STACK.md",
+    "DSA/Algorithms/LINKED LIST CYCLE METHOD.md",
+    "DSA/Algorithms/Kadane's Algorithm.md",
+    "DSA/Algorithms/DUTCH NATIONAL FLAG PROBLEM.md",
+    "DSA/Binary Search/Search in Rotated Sorted Array - I.md",
+    "DSA/Arrays",
+    "DSA/Untitled.md",
+    "DSA/Untitled 1.md",
+    "Untitled.md",
+    "DSA/Leetcode Problems/Leetcode Top 150.md",
+    "DSA/Algorithms/Untitled",
+    "Untitled",
+    "DSA/Leetcode Problems/Leetcode Hard/1326. Minimum Number of Taps to Open to water a Garden.md",
+    "DSA/Leetcode Problems/Leetcode Hard/847. Shortest Path Visiting All Nodes.md",
+    "DEV/Projects/ReactRTC/Tech Stack/EXPRESS.md",
+    "DEV/Projects/ReactRTC/Tech Stack/CORS.md",
+    "DEV/Interview Ques/REACT.md",
+    "DSA/LinkedList/Reverse a linkedList.md",
+    "CP/Problems/CP problems/Untitled.md",
+    "CP/Problems/CP problems",
+    "CS Fundamentals/OOP/Operator Overloading.md",
+    "CS Fundamentals/OOP/Method Overriding.md",
+    "CS Fundamentals/OOP/Virtual Functions.md",
+    "CS Fundamentals/images/Pasted image 20230809160134.png",
+    "media/Pasted image 20230908025633.png",
+    "DSA/LinkedList",
     "DEV",
-    "DUTCH NATIONAL FLAG PROBLEM.md",
-    "Leetcode Problems/Leetcode Top 150.md",
-    "Kadane's Algorithm.md",
     "media/Pasted image 20230627003514.png",
-    "LINKED LIST CYCLE METHOD.md",
     "media/Pasted image 20230627002827.png",
     "Untitled.canvas",
     "media",
@@ -161,17 +190,8 @@
     "Pasted image 20230626232134.png",
     "Pasted image 20230626232422.png",
     "Pasted image 20230626232446.png",
-    "Untitled.md",
     "Leetcode Problems",
-    "A folder/NoteStar.md",
-    "A folder/NeverNote.md",
     "A folder",
-    "React Notes.md",
-    "react",
-    "Dev",
-    "React tutorial.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md"
+    "react"
   ]
 }

@@ -2,9 +2,8 @@
 Brute Approach => Generate all permutations and check the next 
 `Time complexity => O(2^n)`
 Optimal Approach => O(1)
-Note: iterate from back
+**Note:** iterate from back
 
-![[Pasted image 20230626230313.png]]
 ##### Intuition
 1. In a permutation it is always observed that, it forms a peak, a set of increasing elements and then a set of decreasing elements.
 2. to get the next permutation we need to modify the peak with the just greater element right to it.
